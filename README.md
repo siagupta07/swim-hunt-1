@@ -1,1 +1,2 @@
-# swim-hunt-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
